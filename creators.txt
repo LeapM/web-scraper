@@ -1,0 +1,195 @@
+$KSK,KSK,$39.20,150,112,$484,399,Buy
+$PLAY,The Play Coin,$38.75,150,056,$482,202,Buy
+$CHOU,Kevin Chou,$33.89,148,697,$433,000,Buy
+$TILT,Joe Pulizzi,$33.38,148,544,$427,866,Buy
+$DTQ,DownToQuest,$30.65,147,738,$402,054,Buy
+$PANGO,lukiluki,$30.19,147,603,$397,955,Buy
+$ALLIE,Alliestrasza,$26.33,146,463,$365,720,Buy
+$ANR,A&R Block,$0.81,868,698,$332,188,Buy
+$PTM,Portugal. The Man,$19.95,144,116,$312,559,Buy
+$MOON,Nicholena Moon,$18.38,143,141,$293,880,Buy
+$GGSC,Gen.G,$16.29,141,841,$271,338,Buy
+$GARY,Gary Henderson,$14.80,140,919,$257,006,Buy
+$HLTH,$HLTH Community,$0.71,766,021,$254,641,Buy
+$SKOT,Able Black,$14.24,140,572,$251,966,Buy
+$VCA,Colin Benders,$0.66,715,666,$220,372,Buy
+$ROFF,roffle,$10.94,137,237,$210,558,Buy
+$WORD,Ann Handley,$10.74,137,008,$208,075,Buy
+$JOW,Jeremiah Owyang,$9.47,135,527,$193,113,Buy
+$KKCR,Meta4ickal,$9.44,135,501,$192,865,Buy
+$CMO,David Berkowitz,$8.96,134,909,$187,423,Buy
+$SHIPR,Shipbroman,$8.46,133,916,$178,770,Buy
+$SMRT,John Koetsier,$8.33,133,669,$176,703,Buy
+$GROG,Insight on Esports,$8.05,133,106,$172,087,Buy
+$FLIP,Flip The Bird,$0.57,625,140,$164,992,Buy
+$JAYUS,OnlyJayus,$0.57,624,484,$164,620,Buy
+$CRIME,The Classic Crime,$7.45,131,925,$162,938,Buy
+$BOT,$BOT Coin Community,$7.21,131,453,$159,480,Buy
+$SEA,Michael Christopher Brown,$0.55,612,019,$157,629,Buy
+$SHANK,Peter Shankman,$7.06,131,163,$157,409,Buy
+$JAFFE,Joseph Jaffe,$6.76,130,564,$153,266,Buy
+$ROOT,ROOT Gaming,$0.54,596,830,$149,316,Buy
+$DRAZE,Draze Force,$6.27,129,387,$145,636,Buy
+$MOVE,Brian Clark,$6.08,128,794,$141,969,Buy
+$B2B,Evan Kirstel the $B2B Techfluencer,$5.92,128,297,$138,988,Buy
+$SRSH,Seersha,$5.76,127,809,$136,136,Buy
+$BEE,Livibee,$5.74,127,749,$135,792,Buy
+$FAN,FanHOTS,$5.74,127,736,$135,717,Buy
+$SHADE,SHADED,$0.51,568,223,$134,269,Buy
+$NNKC,NiteNightKid,$5.58,127,229,$132,847,Buy
+$RAPS,Raptors Republic,$5.27,126,271,$127,654,Buy
+$WWC,WobbleWeezy,$5.21,126,099,$126,751,Buy
+$MANG,mang0,$5.20,126,048,$126,486,Buy
+$UBR,UberShouts,$5.19,126,038,$126,436,Buy
+$MONTY,Scott Monty,$5.12,125,818,$125,297,Buy
+$MUSIC,BT,$0.49,548,457,$124,340,Buy
+$JAY,Jay Baer,$4.94,125,256,$122,472,Buy
+$ZANE,The Enchanted World of Amy Zerner & Monte Farber,$4.93,125,227,$122,326,Buy
+$VOICE,imrobvoice,$4.75,124,485,$118,742,Buy
+$STEP,Stephen Ryan,$4.55,123,550,$114,399,Buy
+$TAB,Tim & Barry,$0.47,527,304,$114,137,Buy
+$STARK,Jen Stark,$0.47,526,917,$113,955,Buy
+$JEFF,Jeff Pulver,$4.37,122,736,$110,768,Buy
+$JROCK,Jaylen Clark,$0.46,516,511,$109,099,Buy
+$JANEY,Jane,$4.21,122,022,$107,706,Buy
+$3CR8,Selah,$4.18,121,864,$107,043,Buy
+$LUCK,Legend0flucky,$0.45,506,631,$104,588,Buy
+$COBY,Coby Persin,$0.45,503,032,$102,968,Buy
+$MEGA,Megadeth,$0.45,502,454,$102,708,Buy
+$BOO,Bomani X,$3.84,120,301,$100,773,Buy
+$ART,The Most Famous Artist,$3.82,120,178,$100,300,Buy
+$GEEX,Felicia Day,$0.44,495,342,$99,549,Buy
+$HUMAN,Bryan Kramer,$3.77,119,932,$99,367,Buy
+$HEK,HEKATE Records,$0.44,493,232,$98,621,Buy
+$HOP,Hopsin,$0.44,491,794,$97,991,Buy
+$BOLD,BOLD Coin,$3.65,119,176,$96,566,Buy
+$CEXP,Casually Explained,$0.43,481,772,$93,657,Buy
+$TNA,Team New Age,$3.51,118,247,$93,235,Buy
+$ANIME,FayeMata,$0.42,477,383,$91,789,Buy
+$ADHD,Brian Fanzo,$3.39,117,472,$90,563,Buy
+$STANZ,Stanz,$3.29,116,824,$88,396,Buy
+$EQUIS,Xcelencia,$3.18,116,100,$86,049,Buy
+$KAE,Kaellyn,$3.11,115,598,$84,471,Buy
+$KATTY,KattyCustoms,$0.40,457,034,$83,378,Buy
+$SUUN,Maddiesuun,$3.04,115,150,$83,091,Buy
+$FAITH,Called Higher Studios, Inc.,$0.40,453,622,$82,007,Buy
+$DNGL,Dingle Crypto,$2.99,114,711,$81,770,Buy
+$VIBU,ViBElol,$2.93,114,198,$80,253,Buy
+$LOVE,CatZ,$2.93,114,165,$80,155,Buy
+$WAXM,Wax Motif,$2.89,113,855,$79,255,Buy
+$VCTMS,Will Atkinson,$0.39,445,662,$78,853,Buy
+$EMO,Emo Coin,$0.39,443,405,$77,971,Buy
+$GSM,gsmVoid,$0.39,442,372,$77,568,Buy
+$VVCN,Viviana,$2.80,113,001,$76,824,Buy
+$COM,://Crisis_Of_Man,$2.80,112,998,$76,818,Buy
+$WELL,Whitney Lauritsen,$0.38,437,956,$75,859,Buy
+$CKC,Carmen,$2.73,112,418,$75,213,Buy
+$IVO,Suny,$0.38,429,127,$72,500,Buy
+$WALLS,Emery,$2.61,111,289,$72,198,Buy
+$BUM,BumBailey,$0.38,427,973,$72,067,Buy
+$CHEWS,chewiemelodies,$2.58,111,020,$71,501,Buy
+$RAQ,Raquel Lily,$0.37,423,436,$70,375,Buy
+$WORK,Dan Schawbel,$2.53,110,573,$70,360,Buy
+$MIND,Minh Do,$2.51,110,398,$69,919,Buy
+$TINA,TINARAES,$2.44,109,698,$68,189,Buy
+$STACK,CryptoStackers,$0.36,414,221,$67,001,Buy
+$WOMXN,Xtina,$2.39,109,059,$66,647,Buy
+$TOPH,Toph,$0.36,411,482,$66,014,Buy
+$MAYOR,Mayor Reynolds,$2.34,108,505,$65,337,Buy
+$BLAP,!llmind,$2.33,108,384,$65,054,Buy
+$SKULL,Skullduggery,$0.36,408,148,$64,823,Buy
+$MIZZY,Mizzy,$2.31,108,130,$64,464,Buy
+$FAB5,Fab Five Freddy,$2.30,108,006,$64,179,Buy
+$ASKEW,DJ John Askew,$2.27,107,638,$63,337,Buy
+$LUV,Luvanthony,$0.35,403,850,$63,304,Buy
+$VIBE,Keeyuh,$2.26,107,556,$63,151,Buy
+$WUX,wuki,$2.21,106,897,$61,678,Buy
+$MJF,Maxwell Jacob Friedman,$2.21,106,873,$61,626,Buy
+$BTC,blametruthoc,$2.16,106,308,$60,392,Buy
+$SCARY,Scary Kids Scaring Kids,$0.34,393,911,$59,858,Buy
+$TASTE,Tasteless,$2.12,105,809,$59,325,Buy
+$S2J,s2j,$2.11,105,720,$59,137,Buy
+$BTX,Jauz,$2.10,105,601,$58,886,Buy
+$FROST,Max Frost,$2.09,105,488,$58,649,Buy
+$HASH,Chris Messina,$2.07,105,214,$58,080,Buy
+$DOM,Dom Lewis,$0.33,385,961,$57,172,Buy
+$ARVCN,Arvius,$2.03,104,700,$57,025,Buy
+$WAO,Naomi & Mar,$2.03,104,663,$56,952,Buy
+$BROS,StartupBros,$2.03,104,637,$56,898,Buy
+$AVAGG,AvaGG,$2.03,104,612,$56,848,Buy
+$TRUST,Justin Guarini,$0.33,384,876,$56,810,Buy
+$CHRIS,Chris Kurdziel,$2.02,104,461,$56,542,Buy
+$PRO,PlatformProTV,$2.02,104,447,$56,515,Buy
+$CHES,cheese,$1.98,103,833,$55,289,Buy
+$MMAG,Magnetic Magazine,$0.33,379,898,$55,165,Buy
+$POWER,PowerPlayParty,$1.96,103,605,$54,839,Buy
+$OGC,OliverOG,$0.33,378,318,$54,648,Buy
+$PIGGY,twlevewinsHS,$1.95,103,390,$54,419,Buy
+$DUDE,dudeoflife,$0.32,376,630,$54,098,Buy
+$JASON,Jason Steinhauer,$1.94,103,193,$54,037,Buy
+$KARMA,Francine Hardaway, PhD,$1.90,102,634,$52,965,Buy
+$AMA,The Created Economy,$1.89,102,398,$52,519,Buy
+$RENEE,Renee Reynosa,$1.87,102,219,$52,182,Buy
+$IRL,Wes IRL,$0.32,370,130,$52,006,Buy
+$RAVE,6amgroup,$1.86,101,975,$51,727,Buy
+$THICC,EEvisu,$0.32,367,878,$51,292,Buy
+$PAN,SoyPan,$0.32,366,988,$51,010,Buy
+$JAPAN,JapandyJones,$1.83,101,560,$50,961,Buy
+$ETHAN,Ethan Pierse,$1.81,101,202,$50,310,Buy
+$DEKKS,Dekkster,$1.80,101,139,$50,195,Buy
+$AWSM,Awesome Joey,$1.80,101,139,$50,194,Buy
+$DAD,hugs86,$1.75,100,252,$48,619,Buy
+$JACK,Jack Neel,$1.73,99,951,$48,095,Buy
+$PSTL,JVCKJ,$1.73,99,941,$48,078,Buy
+$BKPK,Chris Brogan,$1.72,99,848,$47,918,Buy
+$SCRLA,RareScrilla,$1.72,99,704,$47,670,Coming Soon
+$ROMI,ROMI,$0.30,355,996,$47,601,Buy
+$GAINZ,Big Jon,$1.65,98,308,$45,321,Buy
+$ARK,ARK,$1.65,98,287,$45,287,Buy
+$AVAR,Xi,$1.61,97,472,$43,961,Buy
+$DKP,DanKhoo,$1.59,97,153,$43,451,Buy
+$FLASH,Flashpoint,$1.58,96,878,$43,015,Buy
+$NEXX,Peter Hinssen,$1.57,96,846,$42,966,Buy
+$TBT,Timbvctoo,$0.28,334,170,$41,182,Buy
+$AUG,Auggie Velarde,$1.51,95,624,$41,078,Buy
+$PAIN,PainUser,$1.51,95,594,$41,033,Buy
+$CLOTH,Clothia,$1.51,95,521,$40,923,Buy
+$SLICK,Slick,$1.50,95,416,$40,765,Buy
+$TAFO,Tafokints,$1.49,95,139,$40,350,Buy
+$WEEB,Xell,$1.48,95,034,$40,195,Buy
+$YUCEF,Yucef Merhi,$1.48,94,952,$40,072,Buy
+$SOUL,SoulOfJacobeh,$1.43,93,678,$38,219,Buy
+$SUSIE,Susie Kim,$1.43,93,590,$38,094,Buy
+$CAT,BigCatRescue,$1.40,92,924,$37,153,Buy
+$TOP,Topher,$1.39,92,632,$36,746,Buy
+$ELV,Elevate,$1.39,92,605,$36,708,Buy
+$TEJAS,Tejas Hullur,$1.38,92,370,$36,383,Buy
+$CHILL,Chillindude,$1.37,92,152,$36,084,Buy
+$FMC,Furious Pete,$1.35,91,795,$35,598,Buy
+$CPA,CPA 2K League,$1.35,91,778,$35,575,Buy
+$GEO,CryptosRus,$1.35,91,726,$35,504,Buy
+$COBRA,Chobra,$1.35,91,602,$35,337,Buy
+$MORRO,Morrolan,$1.34,91,497,$35,197,Buy
+$WRITE,Mitch Joel,$1.34,91,377,$35,035,Buy
+$KAAN,Kaansanity,$1.33,91,299,$34,931,Buy
+$STARS,Cosmic Blooom,$1.33,91,237,$34,848,Buy
+$SNDR,Sonder,$1.32,91,008,$34,544,Buy
+$MELEE,Melee Stats,$1.31,90,701,$34,140,Buy
+$DAVID,David Armano,$1.31,90,671,$34,100,Buy
+$YOKAI,Drewskie,$1.30,90,408,$33,757,Buy
+$DOC,Sohaib Imtiaz,$1.30,90,344,$33,674,Buy
+$VNSH,Vanish Esports,$1.29,90,168,$33,447,Buy
+$SHLUV,Justmaiko,$1.26,89,345,$32,397,Buy
+$WREK,Wrekonize,$1.26,89,322,$32,369,Buy
+$FOUSH,Rahaf Harfoush,$1.26,89,209,$32,226,Buy
+$DOA,Doa,$1.25,88,918,$31,861,Buy
+$CON,Conrad Carr,$1.24,88,784,$31,695,Buy
+$GOOD,Ed Nusbaum,$1.22,88,081,$30,829,Buy
+$CXM,Steven Van Belleghem,$1.21,87,683,$30,346,Buy
+$LEFEV,Amy Julliette Lefévre,$1.20,87,385,$29,987,Buy
+$BART,Joe Bartolozzi,$1.19,87,167,$29,727,Buy
+$MRBLK,mrblock,$1.18,86,951,$29,470,Buy
+$CLUB,Club Coin,$1.18,86,852,$29,353,Buy
+$CREW,Among Us Global,$1.18,86,748,$29,231,Buy
+$H1T1,H1T1,$1.17,86,621,$29,081,Buy
+$FLYNN,Brian Flynn,$0.94,77,738,$19,774,Coming Soon
